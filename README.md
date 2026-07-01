@@ -1,4 +1,4 @@
-🤖 Smart Rule-Based Chatbot
+Task 1: 🤖 Smart Rule-Based Chatbot
 
 📌 Project Overview
 
@@ -57,7 +57,7 @@ python chatbot.py
 - User Interaction
 - Basic Natural Language Processing
 
-- 🎮 Tic-Tac-Toe AI using Minimax Algorithm
+- Task 2: 🎮 Tic-Tac-Toe AI using Minimax Algorithm
 
 📌 Project Overview
 
