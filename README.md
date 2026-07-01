@@ -56,8 +56,8 @@ python chatbot.py
 - Python Programming
 - User Interaction
 - Basic Natural Language Processing
-
-- Task 2: 🎮 Tic-Tac-Toe AI using Minimax Algorithm
+  
+ Task 2: 🎮 Tic-Tac-Toe AI using Minimax Algorithm
 
 📌 Project Overview
 
