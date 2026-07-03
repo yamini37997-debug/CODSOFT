@@ -159,6 +159,92 @@ Board positions:
 - Scoreboard and game history.
 - Multiplayer mode.
 
+🎬  Movie Recommendation System
+
+📌 Overview
+
+The Movie Recommendation System is a simple Java console application that recommends movies based on the user's preferred genre. It demonstrates the fundamentals of object-oriented programming (OOP) by organizing movie data into classes and filtering recommendations according to user input.
+
+This project was developed as part of my AI/Java internship to strengthen my understanding of Java programming, collections, and basic recommendation logic.
+
+---
+
+🚀 Features
+
+- Recommend movies based on genre.
+- Predefined movie dataset.
+- Supports multiple genres:
+  - Action
+  - Horror
+  - Comedy
+  - Sci-Fi
+- Displays movie title, genre, and rating.
+- Handles invalid or unavailable genres gracefully.
+
+---
+
+🛠️ Technologies Used
+
+- Java
+- Object-Oriented Programming (OOP)
+- ArrayList (Java Collections Framework)
+
+---
+
+📂 Project Structure
+
+MovieRecommendationSystem/
+│── Main.java
+│── Movie.java
+│── RecommendationEngine.java
+└── README.md
+
+---
+
+▶️ How to Run
+
+1. Clone or download the project.
+2. Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, or VS Code).
+3. Compile all Java files.
+4. Run "Main.java".
+5. Enter your preferred movie genre when prompted.
+6. View the recommended movies.
+
+---
+
+💡 Sample Input
+
+Enter your preferred genre:
+Action
+
+Sample Output
+
+Recommended Movies:
+
+Avengers: Endgame | Genre: Action | Rating: 9.2
+John Wick | Genre: Action | Rating: 8.9
+The Dark Knight | Genre: Action | Rating: 9.5
+
+---
+
+🎯 Learning Outcomes
+
+- Implemented classes and objects using Java.
+- Used ArrayList to store and manage data.
+- Applied conditional statements and loops.
+- Practiced user input handling.
+- Built a simple rule-based recommendation system.
+
+---
+
+🔮 Future Improvements
+
+- Add user ratings and personalized recommendations.
+- Store movie data in a database or external file.
+- Add search by movie name.
+- Implement a GUI using Java Swing or JavaFX.
+- Integrate machine learning-based recommendation algorithms.
+
 👩‍💻 Author
 
 Yamini
